@@ -42,7 +42,7 @@ class IsacMartins:
 
 <div align="center">
 
-![Snake Animation](https://github.com/0xb1ly/0xb1ly/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake Animation](https://github.com/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 </div>
 
