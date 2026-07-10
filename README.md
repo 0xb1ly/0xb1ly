@@ -14,6 +14,15 @@ $ whoami
 > Status: [ ONLINE ] - Building the future with intelligent systems
 ```
 
+## 🐍 > CONTRIBUTION.MATRIX_
+
+<div align="center">
+
+![Snake Animation](https://github.com/0xb1ly/0xb1ly/blob/main/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+</div>
+
+
 ### 🧬 > ABOUT.USER_
 
 ```python
@@ -38,13 +47,6 @@ class IsacMartins:
         print("Control the Matrix 🚀")
 ```
 
-## 🐍 > CONTRIBUTION.MATRIX_
-
-<div align="center">
-
-![Snake Animation](https://github.com/0xb1ly/0xb1ly/blob/main/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
-</div>
 
 ## 📊 > USER.STATS_
 
